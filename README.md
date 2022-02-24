@@ -24,6 +24,16 @@ Repositorios📚:
 
 
 
+
+
+
+
+
+
+
+
+
+
 Si quieres visitar mi LinkedIn puedes haz click: [Juan José Casco Martín-Javato](https://www.linkedin.com/in/juanjosecascomartin-javato/)
 
 
