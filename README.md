@@ -20,14 +20,6 @@ Repositorios📚:
 
  - Una app para el clima realizada con react y la api de METAWEATHER: https://github.com/jjcasco99/weather_app
 
-
-
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-
 Si quieres visitar mi LinkedIn puedes haz click: [Juan José Casco Martín-Javato](https://www.linkedin.com/in/juanjosecascomartin-javato/)
 
 
