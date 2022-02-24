@@ -1,5 +1,4 @@
 ### Bienvenid@ a mi repositorio🤗
-#### LinkedIn: [Juan José Casco Martín-Javato](https://www.linkedin.com/in/juanjosecascomartin-javato/)
 
 Actualmente podras encontrar:
 
@@ -23,4 +22,4 @@ Repositorios📚:
 
 
 
-
+#### LinkedIn: [Juan José Casco Martín-Javato](https://www.linkedin.com/in/juanjosecascomartin-javato/)
