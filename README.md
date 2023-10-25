@@ -10,7 +10,7 @@ Repositorios📚:
 
  - Mi portofolio donde podeis conocerme algo mejor. Esta hecho con React + TailWind CSS: [Juan José Casco](https://juanjosecasco.netlify.app/)
 
- - Un quiz de preguntas sobre videojuegos colaborando con un compañero realizada en javascript: https://github.com/gustavotremont/proyecto-quiz-halloween/branches
+ - Tienda realizada con un mock de objetos, usando useContext y useReducer para el funcionamiento del carrito de compra y filtrado: [Fake tienda](https://faketienda.netlify.app/)
 
  - Wiki de Rick y Morty realizada con react [Rick and Morty](https://wikirick-and-morty.netlify.app)
    
