@@ -18,7 +18,7 @@ Repositorios📚:
    
  - Una buscador de gif hecha con react y la api de GIPHY: https://github.com/jjcasco99/gif_app
 
- - Una app para el clima realizada con react y la api de weather api, el diseño esta pensado para mobile asique activelo desde la herramienta de desarrolladores: [Demo](https://weatherapp-jjcasco.netlify.app/)
+ - Una app para el clima realizada con react y la api de weather api, el diseño esta pensado para mobile asique activelo desde la herramienta de desarrolladores: [Weather App demo](https://weatherapp-jjcasco.netlify.app/)
 
 
 
