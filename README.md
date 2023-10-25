@@ -12,8 +12,7 @@ Repositorios📚:
 
  - Un quiz de preguntas sobre videojuegos colaborando con un compañero realizada en javascript: https://github.com/gustavotremont/proyecto-quiz-halloween/branches
 
- - Una "Pokedex" donde puedes buscar, buscar y guardar , y tambien usada para probar un elemento debounce sin tener que hacer un submit y hacer llamadas a la api:
-   https://pokedex-bootcamp.netlify.app/
+ - Wiki de Rick y Morty realizada con react [Rick and Morty](https://wikirick-and-morty.netlify.app/characters)
    
  - Una buscador de gif hecha con react y la api de GIPHY: https://github.com/jjcasco99/gif_app
 
