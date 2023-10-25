@@ -12,7 +12,7 @@ Repositorios📚:
 
  - Un quiz de preguntas sobre videojuegos colaborando con un compañero realizada en javascript: https://github.com/gustavotremont/proyecto-quiz-halloween/branches
 
- - Wiki de Rick y Morty realizada con react [Rick and Morty](https://wikirick-and-morty.netlify.app/characters)
+ - Wiki de Rick y Morty realizada con react [Rick and Morty](https://wikirick-and-morty.netlify.app)
    
  - Una buscador de gif hecha con react y la api de GIPHY: https://github.com/jjcasco99/gif_app
 
