@@ -8,8 +8,7 @@ Actualmente podras encontrar:
 
 Repositorios📚:
 
- - Un dashboard desarrollado con en stack MERN para el proyecto de fin de bootcamp de The Bridge, donde utilizamos react, y auth0 para registro de usuarios:
-   https://popclaim.herokuapp.com/
+ - Mi portofolio donde podeis conocerme algo mejor. Esta hecho con React + TailWind CSS: [Juan José Casco](https://juanjosecasco.netlify.app/)
 
  - Un quiz de preguntas sobre videojuegos colaborando con un compañero realizada en javascript: https://github.com/gustavotremont/proyecto-quiz-halloween/branches
 
